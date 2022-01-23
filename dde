@@ -30,9 +30,9 @@ local settings = {
 
     --
 
-    gunVisuals = true,
-    deadVisuals = true,
-    colorEffect = true,
+    gunVisuals = false,
+    deadVisuals = false,
+    colorEffect = false,
 
     --
 
